@@ -20,4 +20,3 @@ These results show which customers the model identifies as higher risk. The data
 2. Install the packages with `python -m pip install -r requirements.txt`.
 3. Open `customer_churn_project_notebook.ipynb` in VS Code or Jupyter and run all cells.
 
-The CSV is excluded from this repository; download it from the link above to run the notebook.
